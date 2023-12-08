@@ -7,6 +7,3 @@ This project  designed to meet the home delivery and promotion needs of a local 
 Website is coded with Html |Css | JavaScript
 
 <h2>Web & Mobile Screen</h2>
-
-![](Web.gif)
-![](Mobile.gif)
