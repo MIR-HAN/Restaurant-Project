@@ -696,7 +696,7 @@ a {
     }
 }
 
-@media (max-width : 768px) {
+@media (max-width : 768px) { 
 
     #menu-btn {
         display: inline-block;
@@ -716,7 +716,6 @@ a {
         right: 3rem;
     }
 
-
     .header .navbar a {
         color: var(--black-color);
         display: block;
@@ -724,15 +723,11 @@ a {
         padding: 0.5rem;
         font-size: 2rem;
     }
-
 }
 
 @media (max-width : 576px) {
 html {
     font-size: 50%;
 }
-
-
 }
-
 /* Responsive end*/
